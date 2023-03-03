@@ -1,2 +1,2 @@
-# SongList
-user can hear top 5 song
+# SongList-API
+This API will help user to find  top 5 songs of any singer 
